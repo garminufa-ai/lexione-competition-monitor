@@ -1,0 +1,22 @@
+# API
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# OpenAI
+openai>=1.0.0
+
+# Парсинг
+selenium>=4.16.0
+webdriver-manager>=4.0.1
+
+# Desktop UI
+PyQt6>=6.6.0
+
+# Утилиты
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+aiofiles>=23.0.0
+requests>=2.31.0
+
+# Сборка
+pyinstaller>=6.0.0

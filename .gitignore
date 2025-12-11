@@ -1,0 +1,47 @@
+# Переменные окружения
+.env
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.spec
+
+# PyInstaller
+*.exe
+*.manifest
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Данные и выходные файлы
+data/screenshots/*.png
+data/screenshots/*.jpg
+data/*.pdf
+outputs/*.json
+outputs/*.csv
+history/*.json
+
+# Логи
+*.log
+
+# Selenium
+chromedriver*
+geckodriver*
